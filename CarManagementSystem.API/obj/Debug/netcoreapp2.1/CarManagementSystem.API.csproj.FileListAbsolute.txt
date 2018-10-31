@@ -1,0 +1,14 @@
+D:\Projects\CarManagementSystem\CarManagementSystem.API\bin\Debug\netcoreapp2.1\CarManagementSystem.API.deps.json
+D:\Projects\CarManagementSystem\CarManagementSystem.API\bin\Debug\netcoreapp2.1\CarManagementSystem.API.runtimeconfig.json
+D:\Projects\CarManagementSystem\CarManagementSystem.API\bin\Debug\netcoreapp2.1\CarManagementSystem.API.runtimeconfig.dev.json
+D:\Projects\CarManagementSystem\CarManagementSystem.API\bin\Debug\netcoreapp2.1\CarManagementSystem.API.dll
+D:\Projects\CarManagementSystem\CarManagementSystem.API\bin\Debug\netcoreapp2.1\CarManagementSystem.API.pdb
+D:\Projects\CarManagementSystem\CarManagementSystem.API\obj\Debug\netcoreapp2.1\CarManagementSystem.API.csprojAssemblyReference.cache
+D:\Projects\CarManagementSystem\CarManagementSystem.API\obj\Debug\netcoreapp2.1\CarManagementSystem.API.csproj.CoreCompileInputs.cache
+D:\Projects\CarManagementSystem\CarManagementSystem.API\obj\Debug\netcoreapp2.1\CarManagementSystem.API.RazorAssemblyInfo.cache
+D:\Projects\CarManagementSystem\CarManagementSystem.API\obj\Debug\netcoreapp2.1\CarManagementSystem.API.RazorAssemblyInfo.cs
+D:\Projects\CarManagementSystem\CarManagementSystem.API\obj\Debug\netcoreapp2.1\CarManagementSystem.API.AssemblyInfoInputs.cache
+D:\Projects\CarManagementSystem\CarManagementSystem.API\obj\Debug\netcoreapp2.1\CarManagementSystem.API.AssemblyInfo.cs
+D:\Projects\CarManagementSystem\CarManagementSystem.API\obj\Debug\netcoreapp2.1\CarManagementSystem.API.RazorTargetAssemblyInfo.cache
+D:\Projects\CarManagementSystem\CarManagementSystem.API\obj\Debug\netcoreapp2.1\CarManagementSystem.API.dll
+D:\Projects\CarManagementSystem\CarManagementSystem.API\obj\Debug\netcoreapp2.1\CarManagementSystem.API.pdb
