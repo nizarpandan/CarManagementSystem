@@ -8,5 +8,6 @@ namespace CarManagementSystem.API.Data
         public DataContext(DbContextOptions<DataContext> options) : base (options){}         
 
         public DbSet<Car> Cars { get; set; }
+        public DbSet<User> Users { get; set; }
     }
 }

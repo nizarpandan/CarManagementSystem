@@ -3,11 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using CarManagementSystem.API.Data;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace CarManagementSystem.API.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class CarsController : ControllerBase
@@ -18,7 +20,8 @@ namespace CarManagementSystem.API.Controllers
             _context = context;
         }
 
-        // GET api/values
+        // GET api/cars
+        [AllowAnonymous]
         [HttpGet]
         public async Task<IActionResult> GetCars()
         {
@@ -27,7 +30,8 @@ namespace CarManagementSystem.API.Controllers
             return Ok(cars);
         }
 
-        // GET api/values/5
+        // GET api/cars/5
+        [AllowAnonymous]
         [HttpGet("{id}")]
         public async Task<IActionResult> GetCar(int id)
         {
