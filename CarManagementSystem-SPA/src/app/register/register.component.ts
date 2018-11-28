@@ -8,7 +8,7 @@ import { AlertifyService } from '../_service/alertify.service';
   styleUrls: ['./register.component.scss']
 })
 export class RegisterComponent implements OnInit {
-  @Input() carsFromHome: any;
+  // @Input() carsFromHome: any;
   @Output() cancelRegister = new EventEmitter();
   model: any = {};
   constructor(private authService: AuthService, private alertify: AlertifyService) { }
